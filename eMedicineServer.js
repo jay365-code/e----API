@@ -23,6 +23,8 @@ app.get("/getDrbEasyDrugList", async (req, res) => {
     return res
       .status(400)
       .json({ error: "Missing required query parameter: itemName." });
+  } else {
+    console.log("itemName=" + itemName);
   }
 
   try {
