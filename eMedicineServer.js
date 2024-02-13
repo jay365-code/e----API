@@ -6,7 +6,6 @@ const PORT = 80;
 // Middleware to parse JSON requests
 app.use(express.json());
 
-// ÀÌ°Ô ¹ºÁö?
 // Set default values for serviceKey and type
 const SERVICE_KEY =
   "fjoCUuXC7HQR6qgJCyAJIOg5%2FYUNy6dSTytyLaCCxigO00I9GGlAgEKGO0Esps%2BgLwyc6%2FK%2FbIip3JEzj%2FjTkA%3D%3D";
