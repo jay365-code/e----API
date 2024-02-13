@@ -1,0 +1,19 @@
+{
+  "name": "emedicine-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eMedicineServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay365-code/e----API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay365-code/e----API/issues"
+  },
+  "homepage": "https://github.com/jay365-code/e----API#readme"
+}
